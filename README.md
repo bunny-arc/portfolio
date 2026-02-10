@@ -1,2 +1,2 @@
 # portfolio
-explain about my profile
+about my profile
